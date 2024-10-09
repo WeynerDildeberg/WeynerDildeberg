@@ -1,6 +1,5 @@
 
-### 👋 Hi,  I’m @WeynerDildeberg [iOS Developer]             <i class="devicon-swift-plain-wordmark colored"></i>
-          
+### 👋 Hi,  I’m @WeynerDildeberg [iOS Developer]                    
 
 <img align='right' width="254" alt="perfil" src="https://user-images.githubusercontent.com/95509196/144691817-4f4d26f7-e0d3-4387-8bc0-a95a8bf0ef23.jpg">
 
